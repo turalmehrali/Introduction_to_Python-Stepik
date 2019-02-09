@@ -1,7 +1,7 @@
 # Stepik решения вопросов
 # Stepik solutions
 
-Решение проблем для таких курсов, как Введение в программирование (C++), Introduction to Python
+Решение проблем для таких Introduction to Python курсов
 
 За ваши замечания и предложения: <br>
 https://www.facebook.com/mehralitural <br>
